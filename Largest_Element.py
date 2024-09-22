@@ -1,3 +1,4 @@
+from typing import List
 class Solution:
     def largest(self, arr: List[int]) -> int:
         largest = arr[0]
